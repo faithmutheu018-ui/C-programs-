@@ -1,2 +1,1 @@
-# C-programs-
-Coding assignment 
+Purchase of bundles 
